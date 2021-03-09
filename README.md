@@ -10,8 +10,7 @@ AmazonSNSRole
 
 3) criar arquivo php
 #código enviar mensagem sms
-<?php
-//
+
 require '../vendor/autoload.php';
 
 $params = array(
